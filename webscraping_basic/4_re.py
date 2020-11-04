@@ -44,3 +44,8 @@ def print_match(m):
 
 
 #match 는 처음 부터 일치하는지 확인 (주어진 문자열)
+
+
+#re.compile
+#p로받고
+#m = p.match("")
