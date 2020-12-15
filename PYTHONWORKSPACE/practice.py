@@ -1,0 +1,13 @@
+print(5)
+
+print(-10)
+print(3.14)
+print(10000000)
+print(5+3)
+print('풍선')
+print("나비")
+print("zzzzzzzzzz")
+print("z"*9)
+print(True)
+print(False)
+print(not True)
