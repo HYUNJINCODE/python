@@ -23,3 +23,25 @@ print("우리집 "+ name + "의 이름은 연탄이에요")
 #숫자를 문자열에 쓸때 str 로 감싼다.
 str(is_adult)
 str(age)
+#파이썬에서 주석은 #입니다~
+
+station =  "사당"
+
+print(station+"행 열차가 들어오고 있습니다.")
+print("사당행~")
+print(5//3)
+#몫 구하기
+
+
+
+
+#연산자
+
+print(1+1)
+print(3-2)
+print(4*2)
+print(6/2)
+print(2**3) 
+#2의 세제곱
+print(5%3)
+#나머지 구하기 
